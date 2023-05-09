@@ -1,0 +1,17 @@
+C:\programing\C#\WinFormsApp1\WinFormsApp1\bin\Debug\net7.0-windows\SFU_DataBase.exe
+C:\programing\C#\WinFormsApp1\WinFormsApp1\bin\Debug\net7.0-windows\SFU_DataBase.deps.json
+C:\programing\C#\WinFormsApp1\WinFormsApp1\bin\Debug\net7.0-windows\SFU_DataBase.runtimeconfig.json
+C:\programing\C#\WinFormsApp1\WinFormsApp1\bin\Debug\net7.0-windows\SFU_DataBase.dll
+C:\programing\C#\WinFormsApp1\WinFormsApp1\bin\Debug\net7.0-windows\SFU_DataBase.pdb
+C:\programing\C#\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\SFU_DataBase.csproj.AssemblyReference.cache
+C:\programing\C#\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.Form1.resources
+C:\programing\C#\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\SFU_DataBase.csproj.GenerateResource.cache
+C:\programing\C#\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\SFU_DataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\programing\C#\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\SFU_DataBase.AssemblyInfoInputs.cache
+C:\programing\C#\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\SFU_DataBase.AssemblyInfo.cs
+C:\programing\C#\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\SFU_DataBase.csproj.CoreCompileInputs.cache
+C:\programing\C#\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\SFU_DataBase.dll
+C:\programing\C#\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\refint\SFU_DataBase.dll
+C:\programing\C#\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\SFU_DataBase.pdb
+C:\programing\C#\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\SFU_DataBase.genruntimeconfig.cache
+C:\programing\C#\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\ref\SFU_DataBase.dll
